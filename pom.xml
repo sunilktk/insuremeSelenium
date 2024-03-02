@@ -87,7 +87,7 @@
 	      <configuration>
 	        <archive>
 	          <manifest>
-	            <mainClass>com.selenium.assignment.App</mainClass>
+	            <mainClass>com.seleniumInsurance.seleniumInsurance.App</mainClass>
 	          </manifest>
 	        </archive>
 	        <descriptorRefs>
