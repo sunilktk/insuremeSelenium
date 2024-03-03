@@ -29,7 +29,7 @@ public class App
 	  //1. Open the browser and get to the url
 	  //driver.get("http://localhost:8081/contact.html");	
 	  //Configured test server url
-	  driver.get("http://18.119.164.204:8083//contact.html");	
+	  driver.get("http://3.14.255.82:8083//contact.html");	
 	  //enable wait of 3 seconds 
 	  driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);	  
 	  driver.findElement(By.id("inputName")).sendKeys("SeleniumTestServer");
